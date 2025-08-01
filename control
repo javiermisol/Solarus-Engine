@@ -1,0 +1,22 @@
+Package: solarus
+Version: 2.0.1
+Maintainer: © Solarus Labs, 2006-2025. All rights reserved. <solarus-labs@solarus-games.org>
+Homepage: https://www.solarus-games.org
+Architecture: amd64
+Priority: optional
+Description: Solarus engine
+ A lightweight, multiplatform, free and open-source 2D game engine
+ .
+ .
+ Game Editor
+ .
+ Solarus Editor is a desktop game editor app that helps you creating your game.
+ It features a map editor, a sprite editor, a script editor and many more things.
+ .
+ Game Launcher
+ .
+ Solarus Launcher is a desktop app specially tailored to browse, download, update and play your favorite Solarus-made games.
+ .
+ Built-in features for ARPG
+ .
+ Solarus was specifically designed with cult 2D Action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past, Secret of Mana and Soleil.
